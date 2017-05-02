@@ -1,4 +1,6 @@
-# tristanisham.github.io
+# Tristan Isham's links:
 
-## if you want real info: 
-[https://tristanisham.com](https://tristanisham.com)
+* [Homepage](https://tristanisham.com)
+* [Twitter](https://twitter.com/TristanIsham)
+* [Instagram](https://instagram.com/TristanIsham)
+* [Product Hunt](https://producthunt.com/@TristanIsham)
